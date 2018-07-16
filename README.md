@@ -16,7 +16,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 - Live Search
 - Minutes to Read
 - Reading Progress Bar
- 
+
  ![Progress Bar](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357769/jekflix-progress-bar_he7gqf.jpg)
 - "New Post" tag
 - Load images on demand
@@ -38,7 +38,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 1. Install Jekyll (use the command `gem install jekyll`)
 1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
 1. Clone the repo you just forked
-1. Edit `_config.yml` to personalize your site. 
+1. Edit `_config.yml` to personalize your site.
 1. Check out the sample posts in `_posts` to see examples for assigning category, tags, image and other YAML data
 1. Read the documentation below for further customization pointers and documentation
 1. Remember to compile your assets files with Gulp
@@ -121,7 +121,7 @@ You can use the `initpost.sh` to create your new posts. Just follow the command:
 
 The new file will be created at `_posts` with this format `date-title.md`.
 
-## Front-matter 
+## Front-matter
 
 When you create a new post, you need to fill the post information in the front-matter, follow this example:
 
