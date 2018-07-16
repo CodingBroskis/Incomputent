@@ -19,7 +19,7 @@ linkedin_username: linkedin_username
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: ""
 
 # Plugins
 gems:
