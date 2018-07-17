@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/404.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/about/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/contact/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/css/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/django/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/life/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/mobile/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/contact/message-sent/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/tags/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/tutorial/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/category/webdev/</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/box-shadow-ou-filter-drop-shadow/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/como-fazer-um-hello-world-com-vue-js-2/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/minhas-primeiras-5-impressoes-sobre-django/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000Incomputent/seja-bem-vindo/</loc>
+        </url>
+  
+</urlset>
