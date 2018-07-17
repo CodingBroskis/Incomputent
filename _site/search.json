@@ -4,7 +4,7 @@
       "title"    : "First Post",
       "tags"     : "life and tips",
       "categories" : "life",
-      "url"      : "/life/2017/09/10/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles.html",
+      "url"      : "/Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/",
       "date"     : "09/10/2017"
     } ,
   
@@ -12,7 +12,7 @@
       "title"    : "box-shadow ou filter: drop-shadow?",
       "tags"     : "css and frontend",
       "categories" : "css",
-      "url"      : "/css/2017/08/14/box-shadow-ou-filter-drop-shadow.html",
+      "url"      : "/Incomputent/box-shadow-ou-filter-drop-shadow/",
       "date"     : "08/14/2017"
     } ,
   
@@ -20,7 +20,7 @@
       "title"    : "Fazendo um formulário de Contato no Jekyll com Vue.js",
       "tags"     : "vuejs, jekyll, and blog",
       "categories" : "tutorial",
-      "url"      : "/tutorial/2017/08/08/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js.html",
+      "url"      : "/Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/",
       "date"     : "08/08/2017"
     } ,
   
@@ -28,7 +28,7 @@
       "title"    : "Como migrar seus posts do Wordpress para o Jekyll de um jeito simples",
       "tags"     : "jekyll, wordpress, and blog",
       "categories" : "blog",
-      "url"      : "/blog/2017/07/29/como-migrar-seus-posts-do-wordpress-para-o-jekyll.html",
+      "url"      : "/Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/",
       "date"     : "07/29/2017"
     } ,
   
@@ -36,7 +36,7 @@
       "title"    : "Por que o Sketch vale 3 tanques de gasolina?",
       "tags"     : "design and sketch",
       "categories" : "webdev",
-      "url"      : "/webdev/2017/06/08/por-que-o-sketch-vale-3-tanques-de-gasolina.html",
+      "url"      : "/Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/",
       "date"     : "06/08/2017"
     } ,
   
@@ -44,7 +44,7 @@
       "title"    : "Como fazer um Hello World com Vue.js 2",
       "tags"     : "vuejs, javascript, and tutorial",
       "categories" : "tutorial",
-      "url"      : "/tutorial/2017/06/04/como-fazer-um-hello-world-com-vue-js-2.html",
+      "url"      : "/Incomputent/como-fazer-um-hello-world-com-vue-js-2/",
       "date"     : "06/04/2017"
     } ,
   
@@ -52,7 +52,7 @@
       "title"    : "Minhas primeiras 5 impressões sobre Django",
       "tags"     : "django",
       "categories" : "django",
-      "url"      : "/django/2017/05/11/minhas-primeiras-5-impressoes-sobre-django.html",
+      "url"      : "/Incomputent/minhas-primeiras-5-impressoes-sobre-django/",
       "date"     : "05/11/2017"
     } ,
   
@@ -60,7 +60,7 @@
       "title"    : "Desafio aceito. Fazendo uma app do Dribbble do zero",
       "tags"     : "app, mobile, and ios",
       "categories" : "mobile",
-      "url"      : "/mobile/2015/09/06/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero.html",
+      "url"      : "/Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/",
       "date"     : "09/06/2015"
     } ,
   
@@ -68,7 +68,7 @@
       "title"    : "Diga olá para o TRCurrencyTextField: Um componente com valor.",
       "tags"     : "component, ios, and cocoapods",
       "categories" : "mobile",
-      "url"      : "/mobile/2015/05/08/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor.html",
+      "url"      : "/Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/",
       "date"     : "05/08/2015"
     } ,
   
@@ -76,7 +76,7 @@
       "title"    : "Seja bem-vindo",
       "tags"     : "",
       "categories" : "blog",
-      "url"      : "/blog/2012/10/10/seja-bem-vindo.html",
+      "url"      : "/Incomputent/seja-bem-vindo/",
       "date"     : "10/10/2012"
     } 
   
