@@ -3,18 +3,18 @@
   <channel>
     <title>Jekflix | A theme for Jekyll</title>
     <description>Some text about your blog.</description>
-    <link>http://localhost:4000Incomputent/</link>
-    <atom:link href="http://localhost:4000Incomputent/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Jul 2018 18:13:02 +0100</pubDate>
-    <lastBuildDate>Tue, 17 Jul 2018 18:13:02 +0100</lastBuildDate>
+    <link>http://localhost:4000/Incomputent/</link>
+    <atom:link href="http://localhost:4000/Incomputent/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Jul 2018 18:17:58 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 18:17:58 +0100</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
         <title>First Post</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Sun, 10 Sep 2017 13:26:40 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</guid>
+        <link>http://localhost:4000/Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/como-quase-cai-num-golpe-no-facebook-e-como-desviar-deles/</guid>
         
         <category>life</category>
         
@@ -29,8 +29,8 @@
         <title>box-shadow ou filter: drop-shadow?</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Mon, 14 Aug 2017 23:55:45 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/box-shadow-ou-filter-drop-shadow/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/box-shadow-ou-filter-drop-shadow/</guid>
+        <link>http://localhost:4000/Incomputent/box-shadow-ou-filter-drop-shadow/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/box-shadow-ou-filter-drop-shadow/</guid>
         
         <category>css</category>
         
@@ -45,8 +45,8 @@
         <title>Fazendo um formulário de Contato no Jekyll com Vue.js</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Tue, 08 Aug 2017 00:04:08 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</guid>
+        <link>http://localhost:4000/Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/fazendo-um-formulario-de-contato-no-jekyll-com-vue.js/</guid>
         
         <category>vuejs</category>
         
@@ -63,8 +63,8 @@
         <title>Como migrar seus posts do Wordpress para o Jekyll de um jeito simples</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Sat, 29 Jul 2017 14:24:49 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</guid>
+        <link>http://localhost:4000/Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/como-migrar-seus-posts-do-wordpress-para-o-jekyll/</guid>
         
         <category>jekyll</category>
         
@@ -81,8 +81,8 @@
         <title>Por que o Sketch vale 3 tanques de gasolina?</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Thu, 08 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/</guid>
+        <link>http://localhost:4000/Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/por-que-o-sketch-vale-3-tanques-de-gasolina/</guid>
         
         <category>design</category>
         
@@ -97,8 +97,8 @@
         <title>Como fazer um Hello World com Vue.js 2</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Sun, 04 Jun 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/como-fazer-um-hello-world-com-vue-js-2/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/como-fazer-um-hello-world-com-vue-js-2/</guid>
+        <link>http://localhost:4000/Incomputent/como-fazer-um-hello-world-com-vue-js-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/como-fazer-um-hello-world-com-vue-js-2/</guid>
         
         <category>vuejs</category>
         
@@ -115,8 +115,8 @@
         <title>Minhas primeiras 5 impressões sobre Django</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Thu, 11 May 2017 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/minhas-primeiras-5-impressoes-sobre-django/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/minhas-primeiras-5-impressoes-sobre-django/</guid>
+        <link>http://localhost:4000/Incomputent/minhas-primeiras-5-impressoes-sobre-django/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/minhas-primeiras-5-impressoes-sobre-django/</guid>
         
         <category>django</category>
         
@@ -129,8 +129,8 @@
         <title>Desafio aceito. Fazendo uma app do Dribbble do zero</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Sun, 06 Sep 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</guid>
+        <link>http://localhost:4000/Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/desafio-aceito-fazendo-uma-app-do-dribbble-do-zero/</guid>
         
         <category>app</category>
         
@@ -147,8 +147,8 @@
         <title>Diga olá para o TRCurrencyTextField: Um componente com valor.</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Fri, 08 May 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</guid>
+        <link>http://localhost:4000/Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/diga-ola-para-o-trcurrencytextfield-um-componente-com-valor/</guid>
         
         <category>component</category>
         
@@ -165,8 +165,8 @@
         <title>Seja bem-vindo</title>
         <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
         <pubDate>Wed, 10 Oct 2012 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000Incomputent/seja-bem-vindo/</link>
-        <guid isPermaLink="true">http://localhost:4000Incomputent/seja-bem-vindo/</guid>
+        <link>http://localhost:4000/Incomputent/seja-bem-vindo/</link>
+        <guid isPermaLink="true">http://localhost:4000/Incomputent/seja-bem-vindo/</guid>
         
         
         <category>blog</category>
