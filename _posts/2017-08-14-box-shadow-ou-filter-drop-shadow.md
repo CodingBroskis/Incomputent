@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "box-shadow ou filter: drop-shadow?"
+title: "Basics of Computer Science"
 date: 2017-08-14 22:55:45
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502757949/o-sombra_xyw4wq.jpg'
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -127,18 +127,3 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
