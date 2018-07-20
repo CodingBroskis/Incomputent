@@ -4,8 +4,8 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-<img itemprop="image" class="img-rounded" src="IMG_2047.JPG" alt="Your Name">
-![Car Image](IMG_2047.JPG)
+<img itemprop="image" class="img-rounded" src="IMG_2047.jpg" alt="Your Name">
+
 ## About
 
 > Incompetent means "lacking qualification or ability" -- Dictionary.com.
