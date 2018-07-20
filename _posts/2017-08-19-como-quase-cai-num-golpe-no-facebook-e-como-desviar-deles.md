@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "Hello World"
 date: 2017-09-10 12:26:40
 image: 'http://www.clker.com/cliparts/f/6/6/4/11949868361000070562abc_blocks_petri_lummema_01.svg.med.png'
 description: Introduction to website.
@@ -11,6 +11,10 @@ tags:
 twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
+There are a many computer science/ programming sources online. So many that it becomes a hassle to filter through and decide where to spend your time. Hopefully, this blog will serve as a reliable source that compiles quality resources to something meaningful. HOWEVER, I am far from being an expert -- I'm actually in the process of learning as well. I am currently studying computer science and thought logging my journey in the curriculum would be helpful for not only me, but others who are seeking to start learning as well. Being that I am a novice, there are some obvious benefits and drawbacks that come with the blog. One of those benefits is I'll not assume much out of you and expect you make quantum leaps in logic. Unfortunately, a drawback would be I am a novice, so I likely will not possess the full depth of understanding, but I'll always point you all to some stellar resources to expand upon your level of understanding.
+
+The site will be divided into programming and computer science. The programming section will provide tutorials on working with programming languages such as Python, C++, Java, and more. The computer science section will provide tutorials on concepts in computer science such as data structures and machine learning. I'll aim to post on a weekly basis.
+
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
