@@ -4,7 +4,7 @@ title: About
 description: Some description.
 permalink: /about/
 ---
-<img itemprop="image" class="img-rounded" src="/assets/img/IMG_2047.jpg" alt="Your Name">
+<img src="/assets/img/IMG_2047.jpg" alt="Your Name">
 
 ## About
 
