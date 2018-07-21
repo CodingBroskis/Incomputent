@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/img/IMG_2047.jpg" alt="Your Name">
 
 ## About
-
+![image](IMG_2047.jpg)
 > Incompetent means "lacking qualification or ability" -- Dictionary.com.
 
 There are a many computer science/ programming sources online. So many that it becomes a hassle to filter through and decide where to spend your time. Hopefully, this blog will serve as a reliable source that compiles quality resources to something meaningful. HOWEVER, I am far from being an expert -- I'm actually in the process of learning as well. That's where the name **InComputent** stems. The word incompetent definitely carries a negative connotation, and I'm sure many of you would never want to be called incompetent. But, there will always be a point in our lives that we lack the skill to do something. Yet, that doesn't -- and shouldn't-- stop us from becoming better. That's also why it's called InComputent, so that one can strive be *in competency* ("stretch, but you get the point").
